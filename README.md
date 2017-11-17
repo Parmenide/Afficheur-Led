@@ -5,13 +5,13 @@
 
 ## Description :
 
-Cet afficheur à led à pour fonction de fournir au service de vie scolaire d'un collège un support de communication simplifié avec les élèves, en particulier pour l'appelle des classes à la cantine ou au réfectoire. Celui-ci par ailleurs, offre aux élèves un moyens aisé de se rapporter aux informations communiquées.
-L'appareil affiche alors les classes souhaité relativement à un tableau de commande qui transmet par radio-fréquence l'appelle effectué.
-Les classes appelées sont affichées en rouge et clignotent pendant 5 minutes avant de se stabiliser. Cela afin de distinguer les classes appelées en dernières des classes déjà appelées depuis un certain temps.
+Cet afficheur à diodes electroluminescentes a pour fonction de fournir au service de vie scolaire d'un collège un support de communication simplifié avec les élèves, en particulier pour l'appel des classes à la cantine ou au réfectoire. Celui-ci par ailleurs, offre aux élèves un moyens aisé de se rapporter aux informations communiquées.
+L'appareil affiche alors les classes souhaitées relativement à un tableau de commande qui transmet par radio-fréquences l'appel effectué.
+Les classes appelées sont affichées en rouge et clignotent pendant 5 minutes avant de se stabiliser. Cela afin de distinguer les classes les plus recemments appelées.
 
 ## Périphériques :
 
-* Afficheur à led (+ transformateur AC/DC)
+* Afficheur à diodes electroluminescentes
 * Tableau de commande
 
 
