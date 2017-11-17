@@ -1,6 +1,7 @@
 
 # AFFICHEUR-LED
 
+Un afficheur à diodes électroluminescentes pour faciliter l'appel et la consultation de classes dans une cour d'établissement scolaire.
 
 
 ## Description :
@@ -27,7 +28,7 @@ Emission/réception min.   | 100m             | 100m
 Emission/réception max    | 100m             | 100m
 
 
-## Composition matériel :
+## Composition matérielle :
 
 * Afficheur
 	* 777x leds 620~625nm, 150~200mcd, 1.8~2.2v, 20mA. 
@@ -44,9 +45,9 @@ Emission/réception max    | 100m             | 100m
 	* 200x Resistances 220Ω
 	* 1x Transformateur AC/DC, 12V, 5A
 
-* Tableau de commande
-	* 20x leds 620~625nm, 150~200mcd, 1.8~2.2v, 20mA. 
-	* Arduino-pro-mini 5V (ATMEGA 328)
+* Tableau de commandes
+	* 20x led 620~625nm, 150~200mcd, 1.8~2.2v, 20mA. 
+	* 1x Arduino-pro-mini 5V (ATMEGA 328)
 	* 2x Panneaux MDF, A3, épaisseur : 3mm.
 	* 1x L7805
 	* 2x CD4051
