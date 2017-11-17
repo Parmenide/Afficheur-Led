@@ -31,14 +31,14 @@ Emission/réception max    | 100m             | 100m
 ## Composition matérielle :
 
 * Afficheur
-	* 777x leds 620~625nm, 150~200mcd, 1.8~2.2v, 20mA. 
+	* 777x leds 620\~625nm, 150~200mcd, 1.8\~2.2v, 20mA. 
 	* 5x Panneaux MDF, A3, épaisseur : 3mm.
 	* 1x L7805
 	* 2x SN74HC595
 	* 20x P2N2222A
 	* 10x Connecteur xxxxxxx
 	* 1x PCB prototype 90mm/40mm
-	* 1x Cable étamé 26 AWG ~20m
+	* 1x Cable étamé 26 AWG ≈20m
 	* 1x Arduino-pro-mini 5V (ATMEGA 328)
 	* 1x Récepteur RF 440mhz(HCN67)
 	* 1x Antenne (170mm)
@@ -46,14 +46,14 @@ Emission/réception max    | 100m             | 100m
 	* 1x Transformateur AC/DC, 12V, 5A
 
 * Tableau de commandes
-	* 20x led 620~625nm, 150~200mcd, 1.8~2.2v, 20mA. 
+	* 20x led 620~625nm, 150\~ 200mcd, 1.8\~ 2.2v, 20mA. 
 	* 1x Arduino-pro-mini 5V (ATMEGA 328)
 	* 2x Panneaux MDF, A3, épaisseur : 3mm.
 	* 1x L7805
 	* 2x CD4051
 	* 20x Interupteur (MTS 101)
 	* 1x PCB prototype 90mm/40mm
-	* 1x Cable étamé 26 AWG ~1m
+	* 1x Cable étamé 26 AWG ≈1m
 	* 1x Récepteur RF 440mhz(HCN67)
 	* 1x Antenne (170mm)
 	* 1x Transformateur AC/DC, 5V, 500mA
