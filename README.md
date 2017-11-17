@@ -17,7 +17,7 @@ Les classes appelées sont affichées en rouge et clignotent pendant 5 minutes a
 
 ## Caractéristiques techniques :
 
-                          | Afficheur        | Tableau de commande
+ • | Afficheur | Tableau de commande
 ------------ | ------------ | -------------
 Tension de fonctionnement | 220v             | 220v
 Consommation minimal      | 3 A              | 1 A
@@ -62,8 +62,3 @@ Emission/réception max    | 100m             | 100m
 
 
 ## Sécurité et normes :
-
-
-## Sources et liens externes :
-
-	L'enssemble de ces documents sont en acces libre sur une plateforme communautaire : http://github.com/Parmenide/Afficheur-Led-Collège
