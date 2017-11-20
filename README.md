@@ -63,3 +63,10 @@ Emission/réception max    | 100m             | 100m
 
 
 ## Sécurité et normes :
+
+## Notes complementaires :
+Cet afficheur fut concu avec les moyens techniques à disposition, à savoir une decoupeuse laser Trotec XXXXX pour le recouvrement qui contraint à une surface de découpe de la taille d'un A3 maximum.
+Du coté electronique, là aussi le manque de moyens ont conduit à des choix specifiques. Ainsi, par manque de moyens de gravure de plaque de cuivre, le choix d'utiliser des cartes de prototypage et des modules plutôt que des composants pour ce qui est de l'AT-MEGA et des radios-transmeteurs.
+L'afficheur serait alors surement d'autant mieux concu s'il pouvait ne pas etre soumis aux contraintes precedement evoquées et donc permettre la decoupe d'une pieces des faces de l'afficheurs, ainsi que de proposer un circuit ou typon plus aboutit pour l'electronique.
+
+Pour plusieurs autres raisons diverses, il fut choisis de composer des lettres et chiffres par plusieurs leds juxtaposées. Ce choix conduit à de lourdes opperations de fabrication. De plus, il n'est pas sans augmenter le risque de defaillance du systeme complet puisque, chaque led (777 au total) est portentiellement sujette à un risque de defaillance. Reflexhir à un systeme moins complexe mais tout aussi efficace serait alors surement souhaitable avant quelconque reproduction.
