@@ -1,6 +1,6 @@
-update=Lundi 20 novembre 2017 'à' 14:18:21
+update=Lundi 20 novembre 2017 'à' 15:05:23
 version=1
-last_client=kicad
+last_client=eeschema
 [cvpcb]
 version=1
 NetIExt=net
@@ -9,7 +9,6 @@ version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=Library/Afficheur-College.net
 PadDrill=0.762
 PadDrillOvalY=0.762
 PadSizeH=1.524
@@ -37,7 +36,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=Library
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -68,4 +67,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=/Users/clement.gasque/Desktop/Afficheur-College/Electronique/Kicad/Afficheur-Led [2:2]/Library/Afficheur-Led-2:2
+LibName30=/Users/clement.gasque/.git/Afficheur-Led/Electronique/Kicad/Afficheur-Led [2:2]/Library/Afficheur-Led-2:2
