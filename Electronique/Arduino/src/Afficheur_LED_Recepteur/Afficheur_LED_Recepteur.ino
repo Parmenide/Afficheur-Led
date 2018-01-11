@@ -82,7 +82,7 @@ void loop()
                 if (Classe_prev[i] = 0)
                 {
                     // si l'ecart entre le temps présent et passé est superieur à 5 minutes, alors ...
-                    if (currentMillis - prev_Millis_Classe >= interval_2)
+                    if (actu_Millis - prev_Millis_Classe >= interval_2)
                     {
                         Classe_prev[i]=1;
                     }
@@ -90,10 +90,10 @@ void loop()
                     {
                         //***** CLIGNO *****//
                         // si l'ecart entre le temps présent et passé est superieur à 1/2 seconde, alors ...
-                        if (currentMillis - prev_Millis_Cligno >= interval_1)
+                        if (actu_Millis - prev_Millis_Cligno >= interval_1)
                         {
                             // on sauvegarde le temps présent comme temps passé, c-a-d on remet le compteur à zero :
-                            prev_Millis_Cligno = currentMillis;
+                            prev_Millis_Cligno = actu_Millis;
                             // on inverse l'affichage de la led par rapport à son état précédent
                             // on envoie les informations au 74HC
                             envoi_74HC595(data, horloge, 1, !Classe[i]);
@@ -117,7 +117,7 @@ void loop()
                 // on indique que la classe precedente etait 0 (plutot que 1 pour préparer le clignotement futur)
                 Classe_prev[i] = 0;
                 // on enregistre la position temporel de classe actuelle qui sera la precedente lors d'un prochain allumage
-                prev_Millis_Classe = currentMillis;
+                prev_Millis_Classe = actu_Millis;
                 // on envoie les informations au 74HC
                 envoi_74HC595(data, horloge, 1, Classe[i]);
             }
