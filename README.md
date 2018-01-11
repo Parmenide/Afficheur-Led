@@ -93,13 +93,18 @@ Dans le souci de proposer des ameliorations sans contreindre l'utilisation et l'
 
 ## Ilustrations
 
+![](./Images/A6.jpg)
+![](./Images/A7.jpg)
+
 ### Panneau d'affichage V 1.0
 ![Fabrication du panneau d'affichage](./Images/A1.jpg)
 ![Fabrication du panneau d'affichage](./Images/A2.jpg)
 ![Fabrication du panneau d'affichage](./Images/A3.jpg)
 ![Fabrication du panneau d'affichage](./Images/A4.jpg)
 ![Fabrication du panneau d'affichage](./Images/A5.jpg)
-### Tableau de commande V 1.0
-![Fabrication du tableau de commande](./Images/B1.jpg)
-![Fabrication du tableau de commande](./Images/B2.jpg)
+### Tableau de commandes V 1.0
+![Fabrication du tableau de commandes](./Images/B1.jpg)
+![Fabrication du tableau de commandes](./Images/B2.jpg)
+![Test de fonctionnement du tableau de commandes](./Images/V1.gif)
+
 
