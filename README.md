@@ -85,6 +85,10 @@ Pour plusieurs autres raisons diverses, il fut choisis de composer des lettres e
 
 Du coté logiciel, des ameliorations sont surement à envisager.
 
+## Améliorations futures :
+-*****
+-*****
+
 
 
 ## Versions et mises à jours
