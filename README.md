@@ -80,7 +80,8 @@ Pour plusieurs autres raisons diverses, il fut choisis de composer des lettres e
 
 Du coté logiciel, des ameliorations sont surement à envisager :
 - Inverser les valeurs envoyé et recu par le recepteur qui sont inversé par rapport à l'usage habituel, rendant le code parfois contre--intuitif ( en effet, les 0 signie ouvert et les 1 fermé jusqu'alors !)
--Ajouter un systeme de gestion par le biais du moniteur permetant de modifier le temps de clignottement ou la puissance des leds.
+- Ajouter un systeme de gestion par le biais du moniteur permetant de modifier le temps de clignottement ou la puissance des leds.
+- Synchroniser le clignottement des leds pour l'afficheur
 
 Afin de permetre d'evantuelles ameliorations, les fichiers originaux de découpe ainsi que les fichiers correspondant aux circuits imprimé sont disponibles ici.
 
