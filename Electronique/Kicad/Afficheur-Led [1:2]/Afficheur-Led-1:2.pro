@@ -1,4 +1,4 @@
-update=Lundi 20 novembre 2017 'à' 08:05:38
+update=Dimanche 14 janvier 2018 'à' 21:00:03
 version=1
 last_client=kicad
 [cvpcb]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=
+LibDir=Library;Library/Arduino-Pro-Mini.pretty;Library/RF-440mhz-Receiver.pretty;../Afficheur-Led [1:2]
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -68,3 +68,4 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=/Users/gasque/.git/Afficheur-Led/Electronique/Kicad/Afficheur-Led [1:2]/Library/Afficheur-Led-1:2
