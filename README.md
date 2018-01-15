@@ -18,7 +18,7 @@ Les classes appelées sont affichées en rouge et clignotent pendant 5 minutes a
 ## Caractéristiques techniques :
 
  • | Afficheur | Tableau de commande | Relais
------------- | ------------ | -------------
+------------ | ------------ | ------------- | -------------
 Tension de fonctionnement | 220v             | 220v            | 220v
 Consommation minimal      | 3 A              | 1 A            | 100 ma
 Consommation maximal      | 4 A              | 2 A            | 500 ma
