@@ -55,6 +55,7 @@ void loop()
 {
     //
     byte Classe[20];
+    byte ClasseZ[20];
     byte Classe_prev[20];
     byte Classe_env[20];
     unsigned long prev_Millis_Classe[20];
@@ -62,10 +63,16 @@ void loop()
     // on actualise une variable qui donne le temps présent
     unsigned long actu_Millis = millis();
     //
-    byte taille_Classe = sizeof(Classe);
+    byte taille_Classe = sizeof(ClasseZ);
     //
     // On recupère les inforation recu par le recepteur RF dans la variable Classe[*]
-    vw_get_message((byte *) &Classe, &taille_Classe);
+    //vw_wait_rx();
+    if (vw_get_message((byte *) &ClasseZ, &taille_Classe)){
+      for (byte i = 0; i < 20; i++)
+        {
+            Classe[i]=ClasseZ[i];
+        }
+      }
     /*
      Gestion du clognottement + affichage
      */
@@ -150,21 +157,27 @@ void loop()
     
     // Affichage sur le moniteur
     // Message recu
-    Serial.print("message recu :");
+ //   Serial.print("message recu :");
+    for (byte i = 0; i < 20; i++)   {
+        Serial.print(ClasseZ[i]);
+    }
+    Serial.println();
+    //Serial.print("message recu :");
     for (byte i = 0; i < 20; i++)   {
         Serial.print(Classe[i]);
     }
     Serial.println();
-    // Classe precedante (-5min)
-    Serial.print("classe prev :");
-    for (byte i = 0; i < 20; i++)   {
-        Serial.print(Classe_prev[i]);
-    }
-    Serial.println();
-    // Message envoyé
-    Serial.print("message envoyé :");
-    for (byte i = 0; i < 20; i++)   {
-        Serial.print(Classe_env[i]);
-    }
+//    Serial.println();
+//    // Classe precedante (-5min)
+//    Serial.print("classe prev :");
+//    for (byte i = 0; i < 20; i++)   {
+//        Serial.print(Classe_prev[i]);
+//    }
+//    Serial.println();
+//    // Message envoyé
+//    Serial.print("message envoyé :");
+//    for (byte i = 0; i < 20; i++)   {
+//        Serial.print(Classe_env[i]);
+//    }
     Serial.println();
 } // Void
