@@ -1,6 +1,6 @@
 
 
-# Élèvage-Led.
+# Élèvage - Afficheur Led.
 
 Un afficheur à diodes électroluminescentes pour faciliter l'appel et la consultation de classes dans une cour d'établissement scolaire du premier cycle du secondaire.
 
@@ -12,8 +12,8 @@ Un afficheur à diodes électroluminescentes pour faciliter l'appel et la consul
 - [Sécurité](#sécurité-)
 - [Notes complémentaires](notes-complementaires-)
 - [Versions et mises à jours](#versions-et-mises-à-jours)
-- [Explications résumées du fonctionnement](#explication-résumées-du-fonctionnement)
-- [Illustrations](#ilustrations)
+- [Explications résumée du fonctionnement](#explication-résumée-du-fonctionnement)
+- [Illustrations](#illustrations)
 
 ## Description :
 
@@ -131,7 +131,7 @@ Pour d'éventuelles mises à jour de la programmation des différents ATMEGA, il
 - Chaque base de chaque transistor (20 en tout) est raccordée à une borne du microcontrôleur par le biais d'un multiplexeur/demultiplexeur.
 - De ce, à la réception du signal, chaque transistor est alimenté ou non à sa base selon l'information recu (0 ou 1).
 
-##Illustrations
+## Illustrations
 ### Panneau d'affichage V 1.0
 <img src="./Images/A1.png" width="250" height="200" /> <img src="./Images/A2.png" width="250" height="200" /> <img src="./Images/A3.png" width="250" height="200" /> <img src="./Images/A4.png" width="250" height="200" /> <img src="./Images/A5.png" width="250" height="200" />
 ### Tableau de commandes V 1.0
