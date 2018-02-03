@@ -132,17 +132,7 @@ Pour d'éventuelles mises à jour de la programmation des différents ATMEGA, il
 - De ce, à la réception du signal, chaque transistor est alimenté ou non à sa base selon l'information recu (0 ou 1).
 
 ##Illustrations
-
 ### Panneau d'affichage V 1.0
-<<<<<<< HEAD
-
-### Panneau d'affichage V 1.0
-<img src="./Images/A1.jpg" width="250" height="200" /> <img src="./Images/A2.jpg" width="250" height="200" /> <img src="./Images/A3.jpg" width="250" height="200" /> <img src="./Images/A4.jpg" width="250" height="200" /> <img src="./Images/A5.jpg" width="250" height="200" />
+<img src="./Images/A1.png" width="250" height="200" /> <img src="./Images/A2.png" width="250" height="200" /> <img src="./Images/A3.png" width="250" height="200" /> <img src="./Images/A4.png" width="250" height="200" /> <img src="./Images/A5.png" width="250" height="200" />
 ### Tableau de commandes V 1.0
-<img src="./Images/B1.jpg" width="250" height="200" /> <img src="./Images/B2.jpg" width="250" height="200" />
-=======
-<img src="./Images/A1.jpg" width="250" height="200" /> <img src="./Images/A2.jpg" width="250" height="200" /> <img src="./Images/A3.jpg" width="250" height="200" /> <img src="./Images/A4.jpg" width="250" height="200" /> <img src="./Images/A5.jpg" width="250" height="200" />
-### Tableau de commandes V 1.0
-<img src="./Images/B1.jpg" width="250" height="200" />
-<img src="./Images/B2.jpg" width="250" height="200" />
->>>>>>> 63548d1cfb87ed1d335bb4cd14c25fc1e270a4ef
+<img src="./Images/B1.png" width="250" height="200" /> <img src="./Images/B2.png" width="250" height="200" />
