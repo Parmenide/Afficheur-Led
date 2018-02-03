@@ -133,6 +133,6 @@ Pour d'éventuelles mises à jour de la programmation des différents ATMEGA, il
 
 ## Illustrations
 ### Panneau d'affichage V 1.0
-<img src="./Images/A1.png" width="250" height="200" /> <img src="./Images/A2.png" width="250" height="200" /> <img src="./Images/A3.png" width="250" height="200" /> <img src="./Images/A4.png" width="250" height="200" /> <img src="./Images/A5.png" width="250" height="200" />
+<img src="./Images/A1.png" width="200" height="250" /> <img src="./Images/A2.png" width="250" height="200" /> <img src="./Images/A3.png" width="250" height="200" /> <img src="./Images/A4.png" width="250" height="200" /> <img src="./Images/A5.png" width="250" height="200" />
 ### Tableau de commandes V 1.0
-<img src="./Images/B1.png" width="250" height="200" /> <img src="./Images/B2.png" width="250" height="200" />
+<img src="./Images/B1.png" width="250" height="200" /> <img src="./Images/B2.png" width="200" height="250" />
