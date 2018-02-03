@@ -134,11 +134,11 @@ Pour d'éventuelles mises à jour de la programmation des différents ATMEGA, il
 ##Illustrations
 
 ### Panneau d'affichage V 1.0
-![Fabrication du panneau d'affichage](./Images/A1.jpg =500x400)
-![Fabrication du panneau d'affichage](./Images/A2.jpg =500x400)
-![Fabrication du panneau d'affichage](./Images/A3.jpg =500x400)
-![Fabrication du panneau d'affichage](./Images/A4.jpg =500x400)
-![Fabrication du panneau d'affichage](./Images/A5.jpg =500x400)
+<img src="./Images/A1.jpg" width="500" height="400" />
+<img src="./Images/A2.jpg" width="500" height="400" />
+<img src="./Images/A3.jpg" width="500" height="400" />
+<img src="./Images/A4.jpg" width="500" height="400" />
+<img src="./Images/A5.jpg" width="500" height="400" />-
 ### Tableau de commandes V 1.0
-![Fabrication du tableau de commandes](./Images/B1.jpg =500x400)
-![Fabrication du tableau de commandes](./Images/B2.jpg =500x400)
+<img src="./Images/B1.jpg" width="500" height="400" />
+<img src="./Images/B2.jpg" width="500" height="400" />
