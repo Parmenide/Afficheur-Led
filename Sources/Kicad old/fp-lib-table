@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name RF-440mhz-Receiver)(type KiCad)(uri "$(KIPRJMOD)/Library/RF-440mhz-Receiver.pretty")(options "")(descr ""))
-  (lib (name Arduino-Pro-Mini)(type KiCad)(uri "$(KIPRJMOD)/Library/Arduino-Pro-Mini.pretty")(options "")(descr ""))
-)
